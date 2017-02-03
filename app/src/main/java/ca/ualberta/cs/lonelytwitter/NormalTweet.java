@@ -3,7 +3,12 @@ package ca.ualberta.cs.lonelytwitter;
 import java.util.Date;
 
 /**
- * Created by shida3 on 1/19/17.
+ * This is type NormalTweet
+ * It extends the type Tweet, with the addition of the bool isImportant being false
+ * @author Shida
+ * @see Tweet
+ * @see ImportantTweet
+ * @version 1.0
  */
 
 public class NormalTweet extends Tweet {

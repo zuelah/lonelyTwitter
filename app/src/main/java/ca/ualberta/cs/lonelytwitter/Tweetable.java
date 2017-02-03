@@ -1,7 +1,11 @@
 package ca.ualberta.cs.lonelytwitter;
 
 /**
- * Created by shida3 on 1/19/17.
+ * This interface is implemented by the class Tweet
+ * Includes getter and setter methods for the Tweets
+ * @author Shida
+ * @see Tweet
+ * @version 1.0
  */
 
 public interface Tweetable {
